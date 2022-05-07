@@ -1,1 +1,11 @@
-
+<bug_report>
+  <id>BR001</id>
+  <summary>The 'x²' and '√' buttons are missing on the keyboard layout in the scientific mode</summary>
+  <steps>
+    <step id="1">Open the application</step>
+    <step id="2">Click on the 'Выбор' button on the menu bar and choose 'Инженерный' mode</step>
+   </steps>
+  <expected_result>The  'x²' and '√'  buttons appear after switching to the 'Инженерный' mode</expected_result>
+  <actual_result>The  'x²' and '√'  buttons do not appear after switching to the 'Инженерный' mode</actual_result>
+  <priority>high</priority>
+</bug_report>
