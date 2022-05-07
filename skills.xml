@@ -1,0 +1,23 @@
+<skills>
+	<qa_theory>yes</qa_theory>
+	<server_client_model>yes</server_client_model>
+	<http>yes</http>
+	<json>yes</json>
+	<xml>yes</xml>
+	<api>yes</api>
+	<js_basics>yes</js_basics>
+	<postman>yes</postman>
+	<charles>yes</charles>
+	<fiddler>yes</fiddler>
+	<dev_tools>yes</dev_tools>
+	<sql>yes</sql>
+	<git_bash>yes</git_bash>
+	<git>yes</git>
+	<web_testing>yes</web_testing>
+	<mobile_testing>yes</mobile_testing>
+	<postgres>yes</postgres>
+	<redis>yes</redis>
+	<jmeter>yes</jmeter>
+	<scrum>yes</scrum>
+	<python_basic>yes</python_basics>
+</skills>
